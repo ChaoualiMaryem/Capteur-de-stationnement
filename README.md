@@ -1,0 +1,1 @@
+Développement d’un système basé sur une carte Nucleo32 L031K6 intégrant uncapteur ultrason HC-SR04 pour mesurer des distances. Signalisation sonore viaun buzzer et visuelle avec des LEDs selon la distance. Affichage des mesures surun afficheur à sept segments (deux digits) et activation contrôlée par uninterrupteur simulant une marche arrière.
